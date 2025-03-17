@@ -19,3 +19,4 @@ The vision of this project is to enhance trust and efficiency in supply chain ma
 - **Efficient Ownership Transfers**: Enables seamless transfer of product ownership.
 - **Public Verification**: Anyone can verify the product’s journey on the blockchain.
 
+![image](https://github.com/user-attachments/assets/8e5bd079-d8d8-4ce9-a396-91bd706b5cd2)
