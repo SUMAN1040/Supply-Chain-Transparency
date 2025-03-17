@@ -1,10 +1,12 @@
 # Supply Chain Transparency
 
+
+## Project Description
+Develop a smart contract for tracking products along the supply chain. This contract ensures transparency and immutability in product movement, making it easy to verify ownership and status changes.
+
 ## Contract Address: 0x94141479aBaaBd7c0D569205193FC9B6aD97e0D6
 
 ![image](https://github.com/user-attachments/assets/8e5bd079-d8d8-4ce9-a396-91bd706b5cd2)
-## Project Description
-Develop a smart contract for tracking products along the supply chain. This contract ensures transparency and immutability in product movement, making it easy to verify ownership and status changes.
 
 ## Project Vision
 The vision of this project is to enhance trust and efficiency in supply chain management by leveraging blockchain technology. By providing a decentralized and tamper-proof ledger, the project aims to eliminate fraud, reduce disputes, and improve accountability among stakeholders.
